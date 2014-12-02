@@ -24,14 +24,14 @@
     <favorites_list name="helloWorld" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.5795207">
+    <splitter split-orientation="vertical" split-proportion="0.7420886">
       <split-first>
         <leaf>
           <file leaf-file-name="helloworld.scala" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/com/evoup/helloworld.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5960912" vertical-offset="1166" max-vertical-offset="2033">
-                  <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+                <state vertical-scroll-proportion="0.60243905" vertical-offset="1368" max-vertical-offset="2033">
+                  <caret line="85" column="14" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
                   <folding>
                     <element signature="e#18#37#0" expanded="true" />
                   </folding>
@@ -46,7 +46,7 @@
           <file leaf-file-name="helloworld.scala" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/com/evoup/helloworld.scala">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.59565216" vertical-offset="1725" max-vertical-offset="2033">
+                <state vertical-scroll-proportion="1.0787401" vertical-offset="1725" max-vertical-offset="2033">
                   <caret line="98" column="16" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
                   <folding>
                     <element signature="e#18#37#0" expanded="true" />
@@ -430,7 +430,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26767093" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26767093" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.197411" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -483,8 +483,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/evoup/helloworld.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5960912" vertical-offset="1166" max-vertical-offset="2033">
-          <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.60243905" vertical-offset="1368" max-vertical-offset="2033">
+          <caret line="85" column="14" selection-start-line="85" selection-start-column="14" selection-end-line="85" selection-end-column="14" />
           <folding>
             <element signature="e#18#37#0" expanded="true" />
           </folding>
